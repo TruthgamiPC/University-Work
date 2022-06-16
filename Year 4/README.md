@@ -34,4 +34,4 @@ This was a group project carried over the entire duration of the module as it co
 This module and project were primarily worked on in Miro boards and the prototyping was done in Figma.
 In the folder can be found a link to our demo video and our report for the project.
 
-Direct link to User Experiences - [link](https://github.com/TruthgamiPC/University-Work/tree/main/Year%204/User-Experiences).
+Direct link to User Experiences - [link](https://github.com/TruthgamiPC/University-Work/tree/main/Year%204/User%20Experiences).
