@@ -30,4 +30,8 @@ Both of these projects contain:
 
 ## User Experiences
 Designed the interface for a virtual open day application for the University of Dundee.
-This module included of
+This was a group project carried over the entire duration of the module as it covered the principal of UX.
+This module and project were primarily worked on in Miro boards and the prototyping was done in Figma.
+In the folder can be found a link to our demo video and our report for the project.
+
+Direct link to User Experiences - [link](https://github.com/TruthgamiPC/University-Work/tree/main/Year%204/User-Experiences).
