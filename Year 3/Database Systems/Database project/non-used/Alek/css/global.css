@@ -1,0 +1,81 @@
+/* colour scheme - small enough to move from it's own colors document COLOURS WILL BE ADJUSTED*/
+:root{
+  --main-color: #ffffff; /* main background colour */
+  --secondary-color: #e1e5f2; /* backup colour, little bit darker */
+  --med-light: #bfdbf7; /* darker than above */
+  --pink-dark: #1f7a8c; /* a darker shade - icons and other standout options? */
+}
+
+/* keep it simple with one colour background */
+body{
+  background-color: var(--secondary-color)
+}
+
+/* custom colour scheme for navbar*/
+.bg {
+  background-color: var(--med-light);
+  border-color: #FE929F;
+}
+
+/* footer matches navbar colours */
+.footer{
+  background-color: var(--med-light);
+}
+
+/* don't want ugly mismatched length columns! */
+.row{
+  display:flex;
+}
+
+/* to border the box on index */
+.row-divide {
+  flex: 1;
+  background: var(--secondary-color);
+  border: 1px solid grey;
+}
+
+.containerLoginForm{
+    width: 70%;
+    padding-right: 30%;
+    padding-left: 30%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+/* attempts to sort out imgs */
+img {
+  max-width: 100%;
+  height: auto;
+  width: auto\9; /* ie8 */
+  margin:auto;
+  padding:20px;
+}
+
+.remember-me{
+    padding-left:15px;
+    padding-bottom:10px;
+}
+
+.submit{
+
+}
+
+.signup{
+    padding-top:11px;
+}
+
+.centered {
+    margin: auto;
+    max-width: 300px;}
+
+.login{
+    margin-top: 100px;
+    padding-top: 100px;
+}
+
+.carousel {
+     display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 60%;
+}

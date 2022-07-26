@@ -6,9 +6,12 @@
 ## Agile Software Engineering
 Group project focused on learning modern group working environments and methods.
 SCRUM focus
+link - https://github.com/Group-7-AC31007/Group7-AC31007
+
 
 ## Games programming
 Project with focus on researching game design and creating a game of choice.
+
 
 ## Networks and Data Communications
 1. First project - Simulating Networks
