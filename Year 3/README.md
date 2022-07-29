@@ -8,7 +8,7 @@
 <!-- /TOC -->
 
 ## Agile Software Engineering
-Group project focused on learning modern group working environments and methods. In this project we aimed to follow SCRUM methods and practices.
+Group project focused on learning modern group working environments and methods. In this project we aimed to follow SCRUM methods and practices.\n
 Project was developed in REACT for its frontend together with a express JS backend framework connected to a locally hosted database using MySQL.
 
 Direct link to the Group Github repository - [link](https://github.com/Group-7-AC31007/Group7-AC31007/tree/Development)
@@ -23,15 +23,15 @@ Direct link to the Group Github repository - [link](https://github.com/Truthgami
 2. Server & Bot project - Socket Programming - [link](https://github.com/TruthgamiPC/University-Work/tree/main/Year%203/Networks%20and%20Data%20Communicaitons/Server%20%26%20Bot)
 <!-- Open Book Assessment - [link]() -->
 
-- First project was individual and includes simulation and analysis of a network.
-- Socket programming is a group project done on python which requires the development of an IRC server and a bot which can join IRC servers.
+First project was individual and includes simulation and analysis of a network.\n
+Socket programming is a group project done on python which requires the development of an IRC server and a bot which can join IRC servers.
 
 
 ## Database Systems
 - Database designs - [link](https://github.com/TruthgamiPC/University-Work/tree/main/Year%203/Database%20Systems/Design)
 - Database project SQL - [link](https://github.com/TruthgamiPC/University-Work/tree/main/Year%203/Database%20Systems/Database%20project)
 
-Database designs - initial designs of our database system and web app.
+Database designs - initial designs of our database system and web app.\n
 Database project SQL - Web app code and statements from the database implementation. The database was hosted on University servers and created in MySQL.
 
 ## Information Security
