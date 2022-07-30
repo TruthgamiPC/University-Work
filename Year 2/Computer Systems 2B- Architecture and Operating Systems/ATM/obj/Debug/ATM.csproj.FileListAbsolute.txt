@@ -1,0 +1,70 @@
+C:\Users\Griff\source\repos\ATM\bin\Debug\ATM.exe.config
+C:\Users\Griff\source\repos\ATM\bin\Debug\ATM.exe
+C:\Users\Griff\source\repos\ATM\bin\Debug\ATM.pdb
+C:\Users\Griff\source\repos\ATM\obj\Debug\ATM.csprojAssemblyReference.cache
+C:\Users\Griff\source\repos\ATM\obj\Debug\ATM.Properties.Resources.resources
+C:\Users\Griff\source\repos\ATM\obj\Debug\ATM.csproj.GenerateResource.cache
+C:\Users\Griff\source\repos\ATM\obj\Debug\ATM.exe
+C:\Users\Griff\source\repos\ATM\obj\Debug\ATM.pdb
+C:\Users\Griff\source\repos\ATM\obj\Debug\ATM.ATMForm.resources
+C:\Users\Laura\Downloads\ATM\ATM\bin\Debug\ATM.exe.config
+C:\Users\Laura\Downloads\ATM\ATM\bin\Debug\ATM.exe
+C:\Users\Laura\Downloads\ATM\ATM\bin\Debug\ATM.pdb
+C:\Users\Laura\Downloads\ATM\ATM\obj\Debug\ATM.csprojAssemblyReference.cache
+C:\Users\Laura\Downloads\ATM\ATM\obj\Debug\ATM.ATMForm.resources
+C:\Users\Laura\Downloads\ATM\ATM\obj\Debug\ATM.Properties.Resources.resources
+C:\Users\Laura\Downloads\ATM\ATM\obj\Debug\ATM.csproj.GenerateResource.cache
+C:\Users\Laura\Downloads\ATM\ATM\obj\Debug\ATM.csproj.CoreCompileInputs.cache
+C:\Users\Laura\Downloads\ATM\ATM\obj\Debug\ATM.exe
+C:\Users\Laura\Downloads\ATM\ATM\obj\Debug\ATM.pdb
+C:\Users\Laura\Downloads\ATM (1)\ATM\bin\Debug\ATM.exe.config
+C:\Users\Laura\Downloads\ATM (1)\ATM\bin\Debug\ATM.exe
+C:\Users\Laura\Downloads\ATM (1)\ATM\bin\Debug\ATM.pdb
+C:\Users\Laura\Downloads\ATM (1)\ATM\obj\Debug\ATM.csprojAssemblyReference.cache
+C:\Users\Laura\Downloads\ATM (1)\ATM\obj\Debug\ATM.ATMForm.resources
+C:\Users\Laura\Downloads\ATM (1)\ATM\obj\Debug\ATM.Properties.Resources.resources
+C:\Users\Laura\Downloads\ATM (1)\ATM\obj\Debug\ATM.csproj.GenerateResource.cache
+C:\Users\Laura\Downloads\ATM (1)\ATM\obj\Debug\ATM.csproj.CoreCompileInputs.cache
+C:\Users\Laura\Downloads\ATM (1)\ATM\obj\Debug\ATM.exe
+C:\Users\Laura\Downloads\ATM (1)\ATM\obj\Debug\ATM.pdb
+C:\Users\truth\OneDrive\Desktop\ATM (1)\ATM\bin\Debug\ATM.exe.config
+C:\Users\truth\OneDrive\Desktop\ATM (1)\ATM\bin\Debug\ATM.exe
+C:\Users\truth\OneDrive\Desktop\ATM (1)\ATM\bin\Debug\ATM.pdb
+C:\Users\truth\OneDrive\Desktop\ATM (1)\ATM\obj\Debug\ATM.csprojAssemblyReference.cache
+C:\Users\truth\OneDrive\Desktop\ATM (1)\ATM\obj\Debug\ATM.ATMForm.resources
+C:\Users\truth\OneDrive\Desktop\ATM (1)\ATM\obj\Debug\ATM.Properties.Resources.resources
+C:\Users\truth\OneDrive\Desktop\ATM (1)\ATM\obj\Debug\ATM.csproj.GenerateResource.cache
+C:\Users\truth\OneDrive\Desktop\ATM (1)\ATM\obj\Debug\ATM.csproj.CoreCompileInputs.cache
+C:\Users\truth\OneDrive\Desktop\ATM (1)\ATM\obj\Debug\ATM.exe
+C:\Users\truth\OneDrive\Desktop\ATM (1)\ATM\obj\Debug\ATM.pdb
+C:\Users\Laura\Documents\ATMClear\ATM\bin\Debug\ATM.exe.config
+C:\Users\Laura\Documents\ATMClear\ATM\bin\Debug\ATM.exe
+C:\Users\Laura\Documents\ATMClear\ATM\bin\Debug\ATM.pdb
+C:\Users\Laura\Documents\ATMClear\ATM\obj\Debug\ATM.csprojAssemblyReference.cache
+C:\Users\Laura\Documents\ATMClear\ATM\obj\Debug\ATM.ATMForm.resources
+C:\Users\Laura\Documents\ATMClear\ATM\obj\Debug\ATM.Properties.Resources.resources
+C:\Users\Laura\Documents\ATMClear\ATM\obj\Debug\ATM.csproj.GenerateResource.cache
+C:\Users\Laura\Documents\ATMClear\ATM\obj\Debug\ATM.csproj.CoreCompileInputs.cache
+C:\Users\Laura\Documents\ATMClear\ATM\obj\Debug\ATM.exe
+C:\Users\Laura\Documents\ATMClear\ATM\obj\Debug\ATM.pdb
+C:\Users\truth\OneDrive\Desktop\New folder\ATM GUI project\ATM\bin\Debug\ATM.exe.config
+C:\Users\truth\OneDrive\Desktop\New folder\ATM GUI project\ATM\bin\Debug\ATM.exe
+C:\Users\truth\OneDrive\Desktop\New folder\ATM GUI project\ATM\bin\Debug\ATM.pdb
+C:\Users\truth\OneDrive\Desktop\New folder\ATM GUI project\ATM\obj\Debug\ATM.csprojAssemblyReference.cache
+C:\Users\truth\OneDrive\Desktop\New folder\ATM GUI project\ATM\obj\Debug\ATM.ATMForm.resources
+C:\Users\truth\OneDrive\Desktop\New folder\ATM GUI project\ATM\obj\Debug\ATM.Properties.Resources.resources
+C:\Users\truth\OneDrive\Desktop\New folder\ATM GUI project\ATM\obj\Debug\ATM.csproj.GenerateResource.cache
+C:\Users\truth\OneDrive\Desktop\New folder\ATM GUI project\ATM\obj\Debug\ATM.csproj.CoreCompileInputs.cache
+C:\Users\truth\OneDrive\Desktop\New folder\ATM GUI project\ATM\obj\Debug\ATM.exe
+C:\Users\truth\OneDrive\Desktop\New folder\ATM GUI project\ATM\obj\Debug\ATM.pdb
+C:\Users\Griff\source\repos\ATM\bin\Debug\ATM.exe.manifest
+C:\Users\Griff\source\repos\ATM\bin\Debug\ATM.application
+C:\Users\Griff\source\repos\ATM\obj\Debug\ATM.exe.manifest
+C:\Users\Griff\source\repos\ATM\obj\Debug\ATM.application
+E:\All of Uni\Repo\University-Work\Year 2\Computer Systems 2B- Architecture and Operating Systems\ATM\obj\Debug\ATM.csproj.AssemblyReference.cache
+E:\All of Uni\Repo\University-Work\Year 2\Computer Systems 2B- Architecture and Operating Systems\ATM\obj\Debug\ATM.ATMForm.resources
+E:\All of Uni\Repo\University-Work\Year 2\Computer Systems 2B- Architecture and Operating Systems\ATM\obj\Debug\ATM.Properties.Resources.resources
+E:\All of Uni\Repo\University-Work\Year 2\Computer Systems 2B- Architecture and Operating Systems\ATM\obj\Debug\ATM.csproj.GenerateResource.cache
+E:\All of Uni\Repo\University-Work\Year 2\Computer Systems 2B- Architecture and Operating Systems\ATM\obj\Debug\ATM.csproj.CoreCompileInputs.cache
+E:\All of Uni\Repo\University-Work\Year 2\Computer Systems 2B- Architecture and Operating Systems\ATM\obj\Debug\ATM.exe
+E:\All of Uni\Repo\University-Work\Year 2\Computer Systems 2B- Architecture and Operating Systems\ATM\obj\Debug\ATM.pdb

@@ -1,0 +1,34 @@
+basicfunc.sh: line 44: cd: ./xd: No such file or directory
+basicfunc.sh: line 44: cd: ./1: No such file or directory
+basicfunc.sh: line 44: cd: ./xdddddddddddddd: No such file or directory
+browseRepo.sh: line 48: cd: ./1: No such file or directory
+browseRepo.sh: line 48: cd: ./1: No such file or directory
+browseRepo.sh: line 47: cd: ./1: No such file or directory
+browseRepo.sh: line 47: cd: ./1: No such file or directory
+browseRepo.sh: line 47: cd: ./e: No such file or directory
+browseRepo.sh: line 47: cd: ./3: No such file or directory
+browseRepo.sh: line 47: cd: ./3: No such file or directory
+browseRepo.sh: line 51: cd: ./back: No such file or directory
+browseRepo.sh: line 52: cd: ./s: No such file or directory
+browseRepo.sh: line 52: cd: ./3: No such file or directory
+browseRepo.sh: line 58: cd: ./uh: No such file or directory
+browseRepo.sh: line 58: cd: ./dsa: No such file or directory
+browseRepos.sh: line 58: cd: ./repo3: No such file or directory
+browseRepos.sh: line 58: cd: too many arguments
+browseRepos.sh: line 58: cd: ./1: No such file or directory
+browseRepos.sh: line 52: cd: ./1: No such file or directory
+browseRepos.sh: line 53: cd: ./3: No such file or directory
+browseRepos.sh: line 53: cd: ./a: No such file or directory
+browseRepos.sh: line 53: cd: ./a: No such file or directory
+browseRepos.sh: line 53: cd: ./a: No such file or directory
+browseRepos.sh: line 53: cd: ./a: No such file or directory
+browseRepos.sh: line 53: cd: ./a: No such file or directory
+browseRepos.sh: line 53: cd: ./repo: No such file or directory
+browseRepos.sh: line 54: cd: too many arguments
+browseRepos.sh: line 54: cd: too many arguments
+browseRepos.sh: line 54: cd: too many arguments
+browseRepos.sh: line 53: cd: ./rpeo1: No such file or directory
+repoMenu.sh: line 158: -d: command not found
+repoMenu.sh: line 158: -d: command not found
+browseRepos.sh: line 29: cd: ./repoMain: No such file or directory
+browseRepos.sh: line 29: cd: ./LogTest1: No such file or directory

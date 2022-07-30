@@ -1,0 +1,3 @@
+Vinny, hard, 145, 200,
+Alban, easy, 46,  19,
+John Smith,Easy,7,16,
